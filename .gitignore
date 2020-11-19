@@ -1323,3 +1323,13 @@ thisenv/bin/activate.xsh
 thisenv/bin/activate_this.py
 thisenv/bin/chardetect
 thisenv/bin/chardetect-3.8
+thisenv/lib/python3.8/site-packages/pysyslogclient-0.1.1.dist-info/INSTALLER
+thisenv/lib/python3.8/site-packages/pysyslogclient-0.1.1.dist-info/LICENSE
+thisenv/lib/python3.8/site-packages/pysyslogclient-0.1.1.dist-info/METADATA
+thisenv/lib/python3.8/site-packages/pysyslogclient-0.1.1.dist-info/RECORD
+thisenv/lib/python3.8/site-packages/pysyslogclient-0.1.1.dist-info/top_level.txt
+thisenv/lib/python3.8/site-packages/pysyslogclient-0.1.1.dist-info/WHEEL
+thisenv/lib/python3.8/site-packages/pysyslogclient/__init__.py
+thisenv/lib/python3.8/site-packages/pysyslogclient/__pycache__/__init__.cpython-38.pyc
+thisenv/lib/python3.8/site-packages/pysyslogclient/__pycache__/cli.cpython-38.pyc
+thisenv/lib/python3.8/site-packages/pysyslogclient/cli.py
