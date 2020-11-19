@@ -1,0 +1,6 @@
+server : https://httpbin.org/post
+supportedFeatures : 13
+externalId : "1234567880@mobile.com"
+notificationDestination : "http://yourcallback:9999"
+monitorExpireTime : "2028-01-31T00:15:00+08:00"
+monitoringType : "PDN_CONNECTIVITY_STATUS"
