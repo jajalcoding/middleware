@@ -5,7 +5,7 @@ import httpx
 import sys
 
  
-client = httpx.Client(http2=True)
+client = httpx.Client(http2=True, verify=False)
 response = client.get(sys.argv[1])
 print(response.text)
 print("-----------")

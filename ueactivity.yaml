@@ -1,4 +1,4 @@
-server : https://httpbin.org/post
+server : http://localhost:8080/login
 supportedFeatures : 2
 externalId : "1234567880@mobile.com"
 notificationDestination : "http://yourcallback:9999"

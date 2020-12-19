@@ -38,6 +38,7 @@ client = httpx.Client(http2=True)
 
 try:
     response = client.post(targetserver,data=sentdata)
+    print(response.text)
 except:
     print("Can not reach "+targetserver)
     exit()
