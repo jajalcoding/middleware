@@ -1,0 +1,25 @@
+2020-12-20 07:12:45,221 - Client2Nef App started
+2020-12-20 07:12:45,222 - YAML : {'server': 'https://localhost:40880/3gpp-monitoring-event/v1/nef5g/subscriptions', 'notificationDestination': 'https://localhost:50880/notifyme/', 'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'msisdn': [123456789012345, 223456789012345, 323456789012345, 423456789012345, 523456789012345]}
+2020-12-20 07:12:45,226 - POST : {'notificationDestination': 'https://localhost:50880/notifyme/', 'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'msisdn': '123456789012345'}
+2020-12-20 07:12:45,264 - SERVER: HTTP/2 201 - {"result":"ok"}
+2020-12-20 07:12:45,265 - POST : {'notificationDestination': 'https://localhost:50880/notifyme/', 'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'msisdn': '223456789012345'}
+2020-12-20 07:12:45,271 - SERVER: HTTP/2 201 - {"result":"ok"}
+2020-12-20 07:12:45,271 - POST : {'notificationDestination': 'https://localhost:50880/notifyme/', 'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'msisdn': '323456789012345'}
+2020-12-20 07:12:45,276 - SERVER: HTTP/2 201 - {"result":"ok"}
+2020-12-20 07:12:45,276 - POST : {'notificationDestination': 'https://localhost:50880/notifyme/', 'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'msisdn': '423456789012345'}
+2020-12-20 07:12:45,285 - SERVER: HTTP/2 201 - {"result":"ok"}
+2020-12-20 07:12:45,285 - POST : {'notificationDestination': 'https://localhost:50880/notifyme/', 'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'msisdn': '523456789012345'}
+2020-12-20 07:12:45,294 - SERVER: HTTP/2 201 - {"result":"ok"}
+2020-12-20 07:14:21,309 - Client2Nef App started
+2020-12-20 07:14:21,311 - YAML : {'server': 'https://localhost:40880/3gpp-monitoring-event/v1/nef5g/subscriptions', 'notificationDestination': 'https://localhost:50880/notifyme/', 'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'msisdn': [123456789012345, 223456789012345, 323456789012345, 423456789012345, 523456789012345]}
+2020-12-20 07:14:21,314 - POST : {'notificationDestination': 'https://localhost:50880/notifyme/', 'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'msisdn': '123456789012345'}
+2020-12-20 07:14:21,351 - SERVER: HTTP/2 201 - {"result":"ok"}
+2020-12-20 07:14:21,351 - POST : {'notificationDestination': 'https://localhost:50880/notifyme/', 'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'msisdn': '223456789012345'}
+2020-12-20 07:14:21,366 - SERVER: HTTP/2 201 - {"result":"ok"}
+2020-12-20 07:14:21,367 - POST : {'notificationDestination': 'https://localhost:50880/notifyme/', 'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'msisdn': '323456789012345'}
+2020-12-20 07:14:21,378 - SERVER: HTTP/2 201 - {"result":"ok"}
+2020-12-20 07:14:21,378 - POST : {'notificationDestination': 'https://localhost:50880/notifyme/', 'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'msisdn': '423456789012345'}
+2020-12-20 07:14:21,384 - SERVER: HTTP/2 201 - {"result":"ok"}
+2020-12-20 07:14:21,384 - POST : {'notificationDestination': 'https://localhost:50880/notifyme/', 'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'msisdn': '523456789012345'}
+2020-12-20 07:14:21,394 - SERVER: HTTP/2 201 - {"result":"ok"}
+2020-12-20 07:14:21,394 - Client2Nef App ended

@@ -15,7 +15,7 @@ async def hello():
 async def subscribe():
     jsondata = (await request.get_json())
     print(jsondata)
-    return  { 'result':'ok' }, 201
+    return  { 'result':'ok' }, 200
         
 
 app.run(

@@ -1,0 +1,149 @@
+2020-12-20 17:32:54,411 - Nef-Notify App started
+2020-12-20 17:32:54,413 - YAML : {'server': 'https://localhost:50880/notifyme', 'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'test1': 'sampledata', 'test2': 1234567, 'msisdn': [123456789012345, 223456789012345, 323456789012345, 423456789012345, 523456789012345]}
+2020-12-20 17:32:54,417 - POST : {'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'test1': 'sampledata', 'test2': 1234567, 'msisdn': '123456789012345'}
+2020-12-20 17:32:54,464 - SERVER ERROR - Can not reach/post server !
+2020-12-20 17:33:07,090 - Nef-Notify App started
+2020-12-20 17:33:07,094 - YAML : {'server': 'https://localhost:50880/notifyme', 'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'test1': 'sampledata', 'test2': 1234567, 'msisdn': [123456789012345, 223456789012345, 323456789012345, 423456789012345, 523456789012345]}
+2020-12-20 17:33:07,098 - POST : {'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'test1': 'sampledata', 'test2': 1234567, 'msisdn': '123456789012345'}
+2020-12-20 17:33:07,204 - SERVER ERROR - Can not reach/post server !
+2020-12-20 17:34:47,476 - Nef-Notify App started
+2020-12-20 17:34:47,477 - YAML : {'server': 'https://localhost:50880/notifyme', 'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'test1': 'sampledata', 'test2': 1234567, 'msisdn': [123456789012345, 223456789012345, 323456789012345, 423456789012345, 523456789012345]}
+2020-12-20 17:34:47,481 - POST : {'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'test1': 'sampledata', 'test2': 1234567, 'msisdn': '123456789012345'}
+2020-12-20 17:34:47,528 - SERVER ERROR - Can not reach/post server !
+2020-12-20 19:56:09,879 - Nef-Notify App started
+2020-12-20 19:56:09,881 - YAML : {'server': 'https://localhost:50880/notifyme', 'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'test1': 'sampledata', 'test2': 1234567, 'msisdn': [123456789012345, 223456789012345, 323456789012345, 423456789012345, 523456789012345]}
+2020-12-20 19:56:09,885 - POST : {'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'test1': 'sampledata', 'test2': 1234567, 'msisdn': '123456789012345'}
+2020-12-20 19:56:09,930 - SERVER ERROR - Can not reach/post server !
+2020-12-20 19:56:25,928 - Nef-Notify App started
+2020-12-20 19:56:25,930 - YAML : {'server': 'https://localhost:50880/notifyme', 'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'test1': 'sampledata', 'test2': 1234567, 'msisdn': [123456789012345, 223456789012345, 323456789012345, 423456789012345, 523456789012345]}
+2020-12-20 19:56:25,934 - POST : {'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'test1': 'sampledata', 'test2': 1234567, 'msisdn': '123456789012345'}
+2020-12-20 19:59:16,176 - SERVER ERROR - Can not reach/post server !
+2020-12-20 19:59:28,076 - Nef-Notify App started
+2020-12-20 19:59:28,078 - YAML : {'server': 'https://localhost:50880/notifyme', 'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'test1': 'sampledata', 'test2': 1234567, 'msisdn': [123456789012345, 223456789012345, 323456789012345, 423456789012345, 523456789012345]}
+2020-12-20 19:59:28,081 - POST : {'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'test1': 'sampledata', 'test2': 1234567, 'msisdn': '123456789012345'}
+2020-12-20 19:59:28,120 - SERVER: HTTP/1.1 204 - 
+2020-12-20 19:59:28,120 - POST : {'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'test1': 'sampledata', 'test2': 1234567, 'msisdn': '223456789012345'}
+2020-12-20 19:59:28,139 - SERVER: HTTP/1.1 204 - 
+2020-12-20 19:59:28,139 - POST : {'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'test1': 'sampledata', 'test2': 1234567, 'msisdn': '323456789012345'}
+2020-12-20 19:59:28,164 - SERVER: HTTP/1.1 204 - 
+2020-12-20 19:59:28,164 - POST : {'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'test1': 'sampledata', 'test2': 1234567, 'msisdn': '423456789012345'}
+2020-12-20 19:59:28,183 - SERVER: HTTP/1.1 204 - 
+2020-12-20 19:59:28,184 - POST : {'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'test1': 'sampledata', 'test2': 1234567, 'msisdn': '523456789012345'}
+2020-12-20 19:59:28,206 - SERVER: HTTP/1.1 204 - 
+2020-12-20 19:59:28,206 - Nef-Notify App ended
+2020-12-20 19:59:43,687 - Nef-Notify App started
+2020-12-20 19:59:43,689 - YAML : {'server': 'https://localhost:50880/notifyme', 'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'test1': 'sampledata', 'test2': 1234567, 'msisdn': [123456789012345, 223456789012345, 323456789012345, 423456789012345, 523456789012345]}
+2020-12-20 19:59:43,693 - POST : {'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'test1': 'sampledata', 'test2': 1234567, 'msisdn': '123456789012345'}
+2020-12-20 19:59:43,726 - SERVER: HTTP/1.1 204 - 
+2020-12-20 19:59:43,726 - POST : {'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'test1': 'sampledata', 'test2': 1234567, 'msisdn': '223456789012345'}
+2020-12-20 19:59:43,748 - SERVER: HTTP/1.1 204 - 
+2020-12-20 19:59:43,748 - POST : {'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'test1': 'sampledata', 'test2': 1234567, 'msisdn': '323456789012345'}
+2020-12-20 19:59:43,771 - SERVER: HTTP/1.1 204 - 
+2020-12-20 19:59:43,771 - POST : {'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'test1': 'sampledata', 'test2': 1234567, 'msisdn': '423456789012345'}
+2020-12-20 19:59:43,793 - SERVER: HTTP/1.1 204 - 
+2020-12-20 19:59:43,794 - POST : {'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'test1': 'sampledata', 'test2': 1234567, 'msisdn': '523456789012345'}
+2020-12-20 19:59:43,817 - SERVER: HTTP/1.1 204 - 
+2020-12-20 19:59:43,817 - Nef-Notify App ended
+2020-12-20 20:01:12,200 - Nef-Notify App started
+2020-12-20 20:01:12,202 - YAML : {'server': 'https://localhost:50880/notifyme', 'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'test1': 'sampledata', 'test2': 1234567, 'msisdn': [123456789012345, 223456789012345, 323456789012345, 423456789012345, 523456789012345]}
+2020-12-20 20:01:12,205 - POST : {'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'test1': 'sampledata', 'test2': 1234567, 'msisdn': '123456789012345'}
+2020-12-20 20:01:12,240 - SERVER: HTTP/1.1 204 - 
+2020-12-20 20:01:12,241 - POST : {'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'test1': 'sampledata', 'test2': 1234567, 'msisdn': '223456789012345'}
+2020-12-20 20:01:12,264 - SERVER: HTTP/1.1 204 - 
+2020-12-20 20:01:12,265 - POST : {'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'test1': 'sampledata', 'test2': 1234567, 'msisdn': '323456789012345'}
+2020-12-20 20:01:12,285 - SERVER: HTTP/1.1 204 - 
+2020-12-20 20:01:12,285 - POST : {'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'test1': 'sampledata', 'test2': 1234567, 'msisdn': '423456789012345'}
+2020-12-20 20:01:12,306 - SERVER: HTTP/1.1 204 - 
+2020-12-20 20:01:12,307 - POST : {'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'test1': 'sampledata', 'test2': 1234567, 'msisdn': '523456789012345'}
+2020-12-20 20:01:12,330 - SERVER: HTTP/1.1 204 - 
+2020-12-20 20:01:12,330 - Nef-Notify App ended
+2020-12-20 20:01:28,676 - Nef-Notify App started
+2020-12-20 20:01:28,678 - YAML : {'server': 'https://localhost:50880/notifyme', 'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'test1': 'sampledata', 'test2': 1234567, 'msisdn': [123456789012345, 223456789012345, 323456789012345, 423456789012345, 523456789012345]}
+2020-12-20 20:01:28,681 - POST : {'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'test1': 'sampledata', 'test2': 1234567, 'msisdn': '123456789012345'}
+2020-12-20 20:01:28,714 - SERVER: HTTP/1.1 204 - 
+2020-12-20 20:01:28,714 - POST : {'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'test1': 'sampledata', 'test2': 1234567, 'msisdn': '223456789012345'}
+2020-12-20 20:01:28,727 - SERVER: HTTP/1.1 204 - 
+2020-12-20 20:01:28,727 - POST : {'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'test1': 'sampledata', 'test2': 1234567, 'msisdn': '323456789012345'}
+2020-12-20 20:01:28,745 - SERVER: HTTP/1.1 204 - 
+2020-12-20 20:01:28,746 - POST : {'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'test1': 'sampledata', 'test2': 1234567, 'msisdn': '423456789012345'}
+2020-12-20 20:01:28,759 - SERVER: HTTP/1.1 204 - 
+2020-12-20 20:01:28,759 - POST : {'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'test1': 'sampledata', 'test2': 1234567, 'msisdn': '523456789012345'}
+2020-12-20 20:01:28,776 - SERVER: HTTP/1.1 204 - 
+2020-12-20 20:01:28,777 - Nef-Notify App ended
+2020-12-20 20:06:06,582 - Nef-Notify App started
+2020-12-20 20:06:06,584 - YAML : {'server': 'https://localhost:50880/notifyme', 'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'test1': 'sampledata', 'test2': 1234567, 'msisdn': [123456789012345, 223456789012345, 323456789012345, 423456789012345, 523456789012345]}
+2020-12-20 20:06:06,588 - POST : {'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'test1': 'sampledata', 'test2': 1234567, 'msisdn': '123456789012345'}
+2020-12-20 20:06:06,632 - SERVER ERROR - Can not reach/post server !
+2020-12-20 20:06:09,430 - Nef-Notify App started
+2020-12-20 20:06:09,431 - YAML : {'server': 'https://localhost:50880/notifyme', 'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'test1': 'sampledata', 'test2': 1234567, 'msisdn': [123456789012345, 223456789012345, 323456789012345, 423456789012345, 523456789012345]}
+2020-12-20 20:06:09,435 - POST : {'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'test1': 'sampledata', 'test2': 1234567, 'msisdn': '123456789012345'}
+2020-12-20 20:06:09,477 - SERVER ERROR - Can not reach/post server !
+2020-12-20 20:06:26,818 - Nef-Notify App started
+2020-12-20 20:06:26,820 - YAML : {'server': 'https://localhost:50880/notifyme', 'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'test1': 'sampledata', 'test2': 1234567, 'msisdn': [123456789012345, 223456789012345, 323456789012345, 423456789012345, 523456789012345]}
+2020-12-20 20:06:26,824 - POST : {'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'test1': 'sampledata', 'test2': 1234567, 'msisdn': '123456789012345'}
+2020-12-20 20:14:27,326 - SERVER ERROR - Can not reach/post server !
+2020-12-20 20:14:29,426 - Nef-Notify App started
+2020-12-20 20:14:29,428 - YAML : {'server': 'https://localhost:50880/notifyme', 'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'test1': 'sampledata', 'test2': 1234567, 'msisdn': [123456789012345, 223456789012345, 323456789012345, 423456789012345, 523456789012345]}
+2020-12-20 20:14:29,431 - POST : {'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'test1': 'sampledata', 'test2': 1234567, 'msisdn': '123456789012345'}
+2020-12-20 20:14:29,463 - SERVER: HTTP/1.1 204 - 
+2020-12-20 20:14:29,463 - POST : {'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'test1': 'sampledata', 'test2': 1234567, 'msisdn': '223456789012345'}
+2020-12-20 20:14:29,478 - SERVER: HTTP/1.1 204 - 
+2020-12-20 20:14:29,478 - POST : {'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'test1': 'sampledata', 'test2': 1234567, 'msisdn': '323456789012345'}
+2020-12-20 20:14:29,503 - SERVER: HTTP/1.1 204 - 
+2020-12-20 20:14:29,504 - POST : {'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'test1': 'sampledata', 'test2': 1234567, 'msisdn': '423456789012345'}
+2020-12-20 20:14:29,525 - SERVER: HTTP/1.1 204 - 
+2020-12-20 20:14:29,526 - POST : {'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'test1': 'sampledata', 'test2': 1234567, 'msisdn': '523456789012345'}
+2020-12-20 20:14:29,543 - SERVER: HTTP/1.1 204 - 
+2020-12-20 20:14:29,545 - Nef-Notify App ended
+2020-12-20 20:20:41,500 - Nef-Notify App started
+2020-12-20 20:20:41,504 - YAML : {'server': 'https://localhost:50880/notifyme', 'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'test1': 'sampledata', 'test2': 1234567, 'msisdn': [123456789012345, 223456789012345, 323456789012345, 423456789012345, 523456789012345]}
+2020-12-20 20:20:41,510 - POST : {'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'test1': 'sampledata', 'test2': 1234567, 'msisdn': '123456789012345'}
+2020-12-20 20:20:41,568 - SERVER: HTTP/1.1 204 - 
+2020-12-20 20:20:41,569 - POST : {'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'test1': 'sampledata', 'test2': 1234567, 'msisdn': '223456789012345'}
+2020-12-20 20:20:41,584 - SERVER: HTTP/1.1 204 - 
+2020-12-20 20:20:41,585 - POST : {'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'test1': 'sampledata', 'test2': 1234567, 'msisdn': '323456789012345'}
+2020-12-20 20:20:41,616 - SERVER: HTTP/1.1 204 - 
+2020-12-20 20:20:41,617 - POST : {'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'test1': 'sampledata', 'test2': 1234567, 'msisdn': '423456789012345'}
+2020-12-20 20:20:41,631 - SERVER: HTTP/1.1 204 - 
+2020-12-20 20:20:41,632 - POST : {'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'test1': 'sampledata', 'test2': 1234567, 'msisdn': '523456789012345'}
+2020-12-20 20:20:41,652 - SERVER: HTTP/1.1 204 - 
+2020-12-20 20:20:41,653 - Nef-Notify App ended
+2020-12-20 20:20:44,291 - Nef-Notify App started
+2020-12-20 20:20:44,292 - YAML : {'server': 'https://localhost:50880/notifyme', 'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'test1': 'sampledata', 'test2': 1234567, 'msisdn': [123456789012345, 223456789012345, 323456789012345, 423456789012345, 523456789012345]}
+2020-12-20 20:20:44,296 - POST : {'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'test1': 'sampledata', 'test2': 1234567, 'msisdn': '123456789012345'}
+2020-12-20 20:20:44,329 - SERVER: HTTP/1.1 204 - 
+2020-12-20 20:20:44,330 - POST : {'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'test1': 'sampledata', 'test2': 1234567, 'msisdn': '223456789012345'}
+2020-12-20 20:20:44,349 - SERVER: HTTP/1.1 204 - 
+2020-12-20 20:20:44,350 - POST : {'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'test1': 'sampledata', 'test2': 1234567, 'msisdn': '323456789012345'}
+2020-12-20 20:20:44,366 - SERVER: HTTP/1.1 204 - 
+2020-12-20 20:20:44,366 - POST : {'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'test1': 'sampledata', 'test2': 1234567, 'msisdn': '423456789012345'}
+2020-12-20 20:20:44,386 - SERVER: HTTP/1.1 204 - 
+2020-12-20 20:20:44,387 - POST : {'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'test1': 'sampledata', 'test2': 1234567, 'msisdn': '523456789012345'}
+2020-12-20 20:20:44,401 - SERVER: HTTP/1.1 204 - 
+2020-12-20 20:20:44,401 - Nef-Notify App ended
+2020-12-20 20:20:45,320 - Nef-Notify App started
+2020-12-20 20:20:45,322 - YAML : {'server': 'https://localhost:50880/notifyme', 'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'test1': 'sampledata', 'test2': 1234567, 'msisdn': [123456789012345, 223456789012345, 323456789012345, 423456789012345, 523456789012345]}
+2020-12-20 20:20:45,325 - POST : {'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'test1': 'sampledata', 'test2': 1234567, 'msisdn': '123456789012345'}
+2020-12-20 20:20:45,365 - SERVER: HTTP/1.1 204 - 
+2020-12-20 20:20:45,368 - POST : {'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'test1': 'sampledata', 'test2': 1234567, 'msisdn': '223456789012345'}
+2020-12-20 20:20:45,383 - SERVER: HTTP/1.1 204 - 
+2020-12-20 20:20:45,383 - POST : {'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'test1': 'sampledata', 'test2': 1234567, 'msisdn': '323456789012345'}
+2020-12-20 20:20:45,459 - SERVER: HTTP/1.1 204 - 
+2020-12-20 20:20:45,487 - POST : {'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'test1': 'sampledata', 'test2': 1234567, 'msisdn': '423456789012345'}
+2020-12-20 20:20:45,518 - SERVER: HTTP/1.1 204 - 
+2020-12-20 20:20:45,518 - POST : {'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'test1': 'sampledata', 'test2': 1234567, 'msisdn': '523456789012345'}
+2020-12-20 20:20:45,530 - SERVER: HTTP/1.1 204 - 
+2020-12-20 20:20:45,530 - Nef-Notify App ended
+2020-12-20 20:22:31,630 - Nef-Notify App started
+2020-12-20 20:22:31,632 - YAML : {'server': 'https://localhost:50880/notifyme', 'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'test1': 'sampledata', 'test2': 1234567, 'msisdn': [123456789012345, 223456789012345, 323456789012345, 423456789012345, 523456789012345]}
+2020-12-20 20:22:31,635 - POST : {'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'test1': 'sampledata', 'test2': 1234567, 'msisdn': '123456789012345'}
+2020-12-20 20:22:31,677 - SERVER: HTTP/1.1 204 - 
+2020-12-20 20:22:31,678 - POST : {'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'test1': 'sampledata', 'test2': 1234567, 'msisdn': '223456789012345'}
+2020-12-20 20:22:31,694 - SERVER: HTTP/1.1 204 - 
+2020-12-20 20:22:31,694 - POST : {'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'test1': 'sampledata', 'test2': 1234567, 'msisdn': '323456789012345'}
+2020-12-20 20:22:31,724 - SERVER: HTTP/1.1 204 - 
+2020-12-20 20:22:31,727 - POST : {'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'test1': 'sampledata', 'test2': 1234567, 'msisdn': '423456789012345'}
+2020-12-20 20:22:31,744 - SERVER: HTTP/1.1 204 - 
+2020-12-20 20:22:31,745 - POST : {'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'test1': 'sampledata', 'test2': 1234567, 'msisdn': '523456789012345'}
+2020-12-20 20:22:31,759 - SERVER: HTTP/1.1 204 - 
+2020-12-20 20:22:31,759 - Nef-Notify App ended

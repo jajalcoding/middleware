@@ -1,0 +1,45 @@
+2020-12-20 20:20:28,003 - Client-Listen.py App started
+2020-12-20 20:20:28,053 - Running on https://127.0.0.1:50880 (CTRL + C to quit)
+2020-12-20 20:20:41,548 - POSTED :{'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'test1': 'sampledata', 'test2': 1234567, 'msisdn': '123456789012345'}
+2020-12-20 20:20:41,567 - 127.0.0.1:61859 POST /notifyme 1.1 204 15 24780
+2020-12-20 20:20:41,572 - POSTED :{'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'test1': 'sampledata', 'test2': 1234567, 'msisdn': '223456789012345'}
+2020-12-20 20:20:41,584 - 127.0.0.1:61859 POST /notifyme 1.1 204 15 13465
+2020-12-20 20:20:41,600 - POSTED :{'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'test1': 'sampledata', 'test2': 1234567, 'msisdn': '323456789012345'}
+2020-12-20 20:20:41,614 - 127.0.0.1:61859 POST /notifyme 1.1 204 15 26249
+2020-12-20 20:20:41,622 - POSTED :{'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'test1': 'sampledata', 'test2': 1234567, 'msisdn': '423456789012345'}
+2020-12-20 20:20:41,631 - 127.0.0.1:61859 POST /notifyme 1.1 204 15 10696
+2020-12-20 20:20:41,640 - POSTED :{'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'test1': 'sampledata', 'test2': 1234567, 'msisdn': '523456789012345'}
+2020-12-20 20:20:41,651 - 127.0.0.1:61859 POST /notifyme 1.1 204 15 17607
+2020-12-20 20:20:44,316 - POSTED :{'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'test1': 'sampledata', 'test2': 1234567, 'msisdn': '123456789012345'}
+2020-12-20 20:20:44,328 - 127.0.0.1:61866 POST /notifyme 1.1 204 15 14799
+2020-12-20 20:20:44,336 - POSTED :{'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'test1': 'sampledata', 'test2': 1234567, 'msisdn': '223456789012345'}
+2020-12-20 20:20:44,348 - 127.0.0.1:61866 POST /notifyme 1.1 204 15 15436
+2020-12-20 20:20:44,354 - POSTED :{'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'test1': 'sampledata', 'test2': 1234567, 'msisdn': '323456789012345'}
+2020-12-20 20:20:44,365 - 127.0.0.1:61866 POST /notifyme 1.1 204 15 12078
+2020-12-20 20:20:44,376 - POSTED :{'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'test1': 'sampledata', 'test2': 1234567, 'msisdn': '423456789012345'}
+2020-12-20 20:20:44,385 - 127.0.0.1:61866 POST /notifyme 1.1 204 15 17264
+2020-12-20 20:20:44,390 - POSTED :{'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'test1': 'sampledata', 'test2': 1234567, 'msisdn': '523456789012345'}
+2020-12-20 20:20:44,400 - 127.0.0.1:61866 POST /notifyme 1.1 204 15 11769
+2020-12-20 20:20:45,347 - POSTED :{'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'test1': 'sampledata', 'test2': 1234567, 'msisdn': '123456789012345'}
+2020-12-20 20:20:45,361 - 127.0.0.1:61874 POST /notifyme 1.1 204 15 16084
+2020-12-20 20:20:45,373 - POSTED :{'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'test1': 'sampledata', 'test2': 1234567, 'msisdn': '223456789012345'}
+2020-12-20 20:20:45,381 - 127.0.0.1:61874 POST /notifyme 1.1 204 15 11202
+2020-12-20 20:20:45,397 - POSTED :{'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'test1': 'sampledata', 'test2': 1234567, 'msisdn': '323456789012345'}
+2020-12-20 20:20:45,443 - 127.0.0.1:61874 POST /notifyme 1.1 204 15 55848
+2020-12-20 20:20:45,508 - POSTED :{'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'test1': 'sampledata', 'test2': 1234567, 'msisdn': '423456789012345'}
+2020-12-20 20:20:45,517 - 127.0.0.1:61874 POST /notifyme 1.1 204 15 16414
+2020-12-20 20:20:45,522 - POSTED :{'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'test1': 'sampledata', 'test2': 1234567, 'msisdn': '523456789012345'}
+2020-12-20 20:20:45,529 - 127.0.0.1:61874 POST /notifyme 1.1 204 15 9318
+2020-12-20 20:22:24,995 - Client-Listen.py App started
+2020-12-20 20:22:25,035 - Running on https://127.0.0.1:50880 (CTRL + C to quit)
+2020-12-20 20:22:31,657 - POSTED :{'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'test1': 'sampledata', 'test2': 1234567, 'msisdn': '123456789012345'}
+2020-12-20 20:22:31,675 - 127.0.0.1:61931 POST /notifyme 1.1 204 15 19734
+2020-12-20 20:22:31,683 - POSTED :{'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'test1': 'sampledata', 'test2': 1234567, 'msisdn': '223456789012345'}
+2020-12-20 20:22:31,693 - 127.0.0.1:61931 POST /notifyme 1.1 204 15 11978
+2020-12-20 20:22:31,710 - POSTED :{'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'test1': 'sampledata', 'test2': 1234567, 'msisdn': '323456789012345'}
+2020-12-20 20:22:31,723 - 127.0.0.1:61931 POST /notifyme 1.1 204 15 25729
+2020-12-20 20:22:31,733 - POSTED :{'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'test1': 'sampledata', 'test2': 1234567, 'msisdn': '423456789012345'}
+2020-12-20 20:22:31,744 - 127.0.0.1:61931 POST /notifyme 1.1 204 15 13056
+2020-12-20 20:22:31,750 - POSTED :{'monitoringType': 'UE_REACHABILITY', 'reachibilityType': 'DATA', 'monitorExpireTime': '2028-01-31T00:15:00+08:00', 'test1': 'sampledata', 'test2': 1234567, 'msisdn': '523456789012345'}
+2020-12-20 20:22:31,759 - 127.0.0.1:61931 POST /notifyme 1.1 204 15 11868
+2020-12-20 20:22:41,540 - Client-Listen.py App STOP
