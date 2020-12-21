@@ -1,0 +1,152 @@
+2020-12-21 21:49:02,131 - Nef-Notify-Bad App started
+2020-12-21 21:49:02,133 - YAML : {'server': 'https://localhost:50880/notifyme', 'msisdn': [323456789012345, 423456789012345], 'subscription': 'https://ignore.this.ok/subscriptions/11111', 'monitoringEventReports': [{'msisdn': 'anynumber', 'monitoringType': 'UE_REACHABILITY', 'reachabilityType"': 'DATA', 'eventTime': '2020-11-30T13:36:38.918Z'}]}
+2020-12-21 21:49:19,712 - Nef-Notify-Bad App started
+2020-12-21 21:49:19,714 - YAML : {'server': 'https://localhost:50880/notifyme', 'msisdn': [323456789012345, 423456789012345], 'subscription': 'https://ignore.this.ok/subscriptions/11111', 'monitoringEventReports': [{'msisdn': 'anynumber', 'monitoringType': 'UE_REACHABILITY', 'reachabilityType"': 'DATA', 'eventTime': '2020-11-30T13:36:38.918Z'}]}
+2020-12-21 21:49:19,720 - POST : {'subscription': 'https://ignore.this.ok/subscriptions/11111', 'monitoringEventReports': [{'msisdn': '323456789012345', 'monitoringType': 'UE_REACHABILITY', 'reachabilityType"': 'DATA', 'eventTime': '2020-12-21T21:49:19 +0700'}]}
+2020-12-21 21:49:20,042 - SERVER: HTTP/1.1 204 - 
+2020-12-21 21:49:39,045 - POST : {'subscription': 'https://ignore.this.ok/subscriptions/11111', 'monitoringEventReports': [{'msisdn': '423456789012345', 'monitoringType': 'UE_REACHABILITY', 'reachabilityType"': 'DATA', 'eventTime': '2020-12-21T21:49:39 +0700'}]}
+2020-12-21 21:49:39,067 - SERVER: HTTP/1.1 204 - 
+2020-12-21 21:49:47,072 - POST : {'subscription': 'https://ignore.this.ok/subscriptions/11111', 'monitoringEventReports': [{'msisdn': '323456789012345', 'monitoringType': 'UE_REACHABILITY', 'reachabilityType"': 'DATA', 'eventTime': '2020-12-21T21:49:47 +0700'}]}
+2020-12-21 21:49:47,096 - SERVER: HTTP/1.1 204 - 
+2020-12-21 21:50:06,098 - POST : {'subscription': 'https://ignore.this.ok/subscriptions/11111', 'monitoringEventReports': [{'msisdn': '423456789012345', 'monitoringType': 'UE_REACHABILITY', 'reachabilityType"': 'DATA', 'eventTime': '2020-12-21T21:50:06 +0700'}]}
+2020-12-21 21:50:06,121 - SERVER: HTTP/1.1 204 - 
+2020-12-21 21:50:20,128 - POST : {'subscription': 'https://ignore.this.ok/subscriptions/11111', 'monitoringEventReports': [{'msisdn': '323456789012345', 'monitoringType': 'UE_REACHABILITY', 'reachabilityType"': 'DATA', 'eventTime': '2020-12-21T21:50:20 +0700'}]}
+2020-12-21 21:50:20,151 - SERVER: HTTP/1.1 204 - 
+2020-12-21 21:50:40,157 - POST : {'subscription': 'https://ignore.this.ok/subscriptions/11111', 'monitoringEventReports': [{'msisdn': '423456789012345', 'monitoringType': 'UE_REACHABILITY', 'reachabilityType"': 'DATA', 'eventTime': '2020-12-21T21:50:40 +0700'}]}
+2020-12-21 21:50:40,188 - SERVER: HTTP/1.1 204 - 
+2020-12-21 21:50:49,192 - POST : {'subscription': 'https://ignore.this.ok/subscriptions/11111', 'monitoringEventReports': [{'msisdn': '323456789012345', 'monitoringType': 'UE_REACHABILITY', 'reachabilityType"': 'DATA', 'eventTime': '2020-12-21T21:50:49 +0700'}]}
+2020-12-21 21:50:49,215 - SERVER: HTTP/1.1 204 - 
+2020-12-21 21:51:07,221 - POST : {'subscription': 'https://ignore.this.ok/subscriptions/11111', 'monitoringEventReports': [{'msisdn': '423456789012345', 'monitoringType': 'UE_REACHABILITY', 'reachabilityType"': 'DATA', 'eventTime': '2020-12-21T21:51:07 +0700'}]}
+2020-12-21 21:51:07,243 - SERVER: HTTP/1.1 204 - 
+2020-12-21 21:51:17,249 - POST : {'subscription': 'https://ignore.this.ok/subscriptions/11111', 'monitoringEventReports': [{'msisdn': '323456789012345', 'monitoringType': 'UE_REACHABILITY', 'reachabilityType"': 'DATA', 'eventTime': '2020-12-21T21:51:17 +0700'}]}
+2020-12-21 21:51:17,270 - SERVER: HTTP/1.1 204 - 
+2020-12-21 21:51:22,272 - POST : {'subscription': 'https://ignore.this.ok/subscriptions/11111', 'monitoringEventReports': [{'msisdn': '423456789012345', 'monitoringType': 'UE_REACHABILITY', 'reachabilityType"': 'DATA', 'eventTime': '2020-12-21T21:51:22 +0700'}]}
+2020-12-21 21:51:22,302 - SERVER: HTTP/1.1 204 - 
+2020-12-21 21:51:38,305 - POST : {'subscription': 'https://ignore.this.ok/subscriptions/11111', 'monitoringEventReports': [{'msisdn': '323456789012345', 'monitoringType': 'UE_REACHABILITY', 'reachabilityType"': 'DATA', 'eventTime': '2020-12-21T21:51:38 +0700'}]}
+2020-12-21 21:51:38,327 - SERVER: HTTP/1.1 204 - 
+2020-12-21 21:51:57,330 - POST : {'subscription': 'https://ignore.this.ok/subscriptions/11111', 'monitoringEventReports': [{'msisdn': '423456789012345', 'monitoringType': 'UE_REACHABILITY', 'reachabilityType"': 'DATA', 'eventTime': '2020-12-21T21:51:57 +0700'}]}
+2020-12-21 21:51:57,353 - SERVER: HTTP/1.1 204 - 
+2020-12-21 21:52:02,354 - POST : {'subscription': 'https://ignore.this.ok/subscriptions/11111', 'monitoringEventReports': [{'msisdn': '323456789012345', 'monitoringType': 'UE_REACHABILITY', 'reachabilityType"': 'DATA', 'eventTime': '2020-12-21T21:52:02 +0700'}]}
+2020-12-21 21:52:02,387 - SERVER: HTTP/1.1 204 - 
+2020-12-21 21:52:14,390 - POST : {'subscription': 'https://ignore.this.ok/subscriptions/11111', 'monitoringEventReports': [{'msisdn': '423456789012345', 'monitoringType': 'UE_REACHABILITY', 'reachabilityType"': 'DATA', 'eventTime': '2020-12-21T21:52:14 +0700'}]}
+2020-12-21 21:52:14,413 - SERVER: HTTP/1.1 204 - 
+2020-12-21 21:52:28,423 - POST : {'subscription': 'https://ignore.this.ok/subscriptions/11111', 'monitoringEventReports': [{'msisdn': '323456789012345', 'monitoringType': 'UE_REACHABILITY', 'reachabilityType"': 'DATA', 'eventTime': '2020-12-21T21:52:28 +0700'}]}
+2020-12-21 21:52:28,462 - SERVER: HTTP/1.1 204 - 
+2020-12-21 21:52:39,467 - POST : {'subscription': 'https://ignore.this.ok/subscriptions/11111', 'monitoringEventReports': [{'msisdn': '423456789012345', 'monitoringType': 'UE_REACHABILITY', 'reachabilityType"': 'DATA', 'eventTime': '2020-12-21T21:52:39 +0700'}]}
+2020-12-21 21:52:39,519 - SERVER: HTTP/1.1 204 - 
+2020-12-21 21:52:44,521 - POST : {'subscription': 'https://ignore.this.ok/subscriptions/11111', 'monitoringEventReports': [{'msisdn': '323456789012345', 'monitoringType': 'UE_REACHABILITY', 'reachabilityType"': 'DATA', 'eventTime': '2020-12-21T21:52:44 +0700'}]}
+2020-12-21 21:52:44,552 - SERVER: HTTP/1.1 204 - 
+2020-12-21 21:52:56,559 - POST : {'subscription': 'https://ignore.this.ok/subscriptions/11111', 'monitoringEventReports': [{'msisdn': '423456789012345', 'monitoringType': 'UE_REACHABILITY', 'reachabilityType"': 'DATA', 'eventTime': '2020-12-21T21:52:56 +0700'}]}
+2020-12-21 21:52:56,596 - SERVER: HTTP/1.1 204 - 
+2020-12-21 21:53:03,602 - POST : {'subscription': 'https://ignore.this.ok/subscriptions/11111', 'monitoringEventReports': [{'msisdn': '323456789012345', 'monitoringType': 'UE_REACHABILITY', 'reachabilityType"': 'DATA', 'eventTime': '2020-12-21T21:53:03 +0700'}]}
+2020-12-21 21:53:03,637 - SERVER: HTTP/1.1 204 - 
+2020-12-21 21:53:22,639 - POST : {'subscription': 'https://ignore.this.ok/subscriptions/11111', 'monitoringEventReports': [{'msisdn': '423456789012345', 'monitoringType': 'UE_REACHABILITY', 'reachabilityType"': 'DATA', 'eventTime': '2020-12-21T21:53:22 +0700'}]}
+2020-12-21 21:53:22,675 - SERVER: HTTP/1.1 204 - 
+2020-12-21 21:53:30,676 - POST : {'subscription': 'https://ignore.this.ok/subscriptions/11111', 'monitoringEventReports': [{'msisdn': '323456789012345', 'monitoringType': 'UE_REACHABILITY', 'reachabilityType"': 'DATA', 'eventTime': '2020-12-21T21:53:30 +0700'}]}
+2020-12-21 21:53:30,692 - SERVER: HTTP/1.1 204 - 
+2020-12-21 21:53:48,698 - POST : {'subscription': 'https://ignore.this.ok/subscriptions/11111', 'monitoringEventReports': [{'msisdn': '423456789012345', 'monitoringType': 'UE_REACHABILITY', 'reachabilityType"': 'DATA', 'eventTime': '2020-12-21T21:53:48 +0700'}]}
+2020-12-21 21:53:48,718 - SERVER: HTTP/1.1 204 - 
+2020-12-21 21:53:57,724 - POST : {'subscription': 'https://ignore.this.ok/subscriptions/11111', 'monitoringEventReports': [{'msisdn': '323456789012345', 'monitoringType': 'UE_REACHABILITY', 'reachabilityType"': 'DATA', 'eventTime': '2020-12-21T21:53:57 +0700'}]}
+2020-12-21 21:53:57,760 - SERVER: HTTP/1.1 204 - 
+2020-12-21 21:54:15,763 - POST : {'subscription': 'https://ignore.this.ok/subscriptions/11111', 'monitoringEventReports': [{'msisdn': '423456789012345', 'monitoringType': 'UE_REACHABILITY', 'reachabilityType"': 'DATA', 'eventTime': '2020-12-21T21:54:15 +0700'}]}
+2020-12-21 21:54:15,798 - SERVER: HTTP/1.1 204 - 
+2020-12-21 21:54:28,799 - POST : {'subscription': 'https://ignore.this.ok/subscriptions/11111', 'monitoringEventReports': [{'msisdn': '323456789012345', 'monitoringType': 'UE_REACHABILITY', 'reachabilityType"': 'DATA', 'eventTime': '2020-12-21T21:54:28 +0700'}]}
+2020-12-21 21:54:28,831 - SERVER: HTTP/1.1 204 - 
+2020-12-21 21:54:40,832 - POST : {'subscription': 'https://ignore.this.ok/subscriptions/11111', 'monitoringEventReports': [{'msisdn': '423456789012345', 'monitoringType': 'UE_REACHABILITY', 'reachabilityType"': 'DATA', 'eventTime': '2020-12-21T21:54:40 +0700'}]}
+2020-12-21 21:54:40,856 - SERVER: HTTP/1.1 204 - 
+2020-12-21 21:54:46,859 - POST : {'subscription': 'https://ignore.this.ok/subscriptions/11111', 'monitoringEventReports': [{'msisdn': '323456789012345', 'monitoringType': 'UE_REACHABILITY', 'reachabilityType"': 'DATA', 'eventTime': '2020-12-21T21:54:46 +0700'}]}
+2020-12-21 21:54:46,878 - SERVER: HTTP/1.1 204 - 
+2020-12-21 21:55:05,884 - POST : {'subscription': 'https://ignore.this.ok/subscriptions/11111', 'monitoringEventReports': [{'msisdn': '423456789012345', 'monitoringType': 'UE_REACHABILITY', 'reachabilityType"': 'DATA', 'eventTime': '2020-12-21T21:55:05 +0700'}]}
+2020-12-21 21:55:05,933 - SERVER: HTTP/1.1 204 - 
+2020-12-21 21:55:11,934 - POST : {'subscription': 'https://ignore.this.ok/subscriptions/11111', 'monitoringEventReports': [{'msisdn': '323456789012345', 'monitoringType': 'UE_REACHABILITY', 'reachabilityType"': 'DATA', 'eventTime': '2020-12-21T21:55:11 +0700'}]}
+2020-12-21 21:55:11,975 - SERVER: HTTP/1.1 204 - 
+2020-12-21 21:55:17,977 - POST : {'subscription': 'https://ignore.this.ok/subscriptions/11111', 'monitoringEventReports': [{'msisdn': '423456789012345', 'monitoringType': 'UE_REACHABILITY', 'reachabilityType"': 'DATA', 'eventTime': '2020-12-21T21:55:17 +0700'}]}
+2020-12-21 21:55:17,993 - SERVER: HTTP/1.1 204 - 
+2020-12-21 21:55:35,994 - POST : {'subscription': 'https://ignore.this.ok/subscriptions/11111', 'monitoringEventReports': [{'msisdn': '323456789012345', 'monitoringType': 'UE_REACHABILITY', 'reachabilityType"': 'DATA', 'eventTime': '2020-12-21T21:55:35 +0700'}]}
+2020-12-21 21:55:36,054 - SERVER: HTTP/1.1 204 - 
+2020-12-21 21:55:43,056 - POST : {'subscription': 'https://ignore.this.ok/subscriptions/11111', 'monitoringEventReports': [{'msisdn': '423456789012345', 'monitoringType': 'UE_REACHABILITY', 'reachabilityType"': 'DATA', 'eventTime': '2020-12-21T21:55:43 +0700'}]}
+2020-12-21 21:55:43,075 - SERVER: HTTP/1.1 204 - 
+2020-12-21 21:55:50,080 - POST : {'subscription': 'https://ignore.this.ok/subscriptions/11111', 'monitoringEventReports': [{'msisdn': '323456789012345', 'monitoringType': 'UE_REACHABILITY', 'reachabilityType"': 'DATA', 'eventTime': '2020-12-21T21:55:50 +0700'}]}
+2020-12-21 21:55:50,097 - SERVER: HTTP/1.1 204 - 
+2020-12-21 21:56:05,099 - POST : {'subscription': 'https://ignore.this.ok/subscriptions/11111', 'monitoringEventReports': [{'msisdn': '423456789012345', 'monitoringType': 'UE_REACHABILITY', 'reachabilityType"': 'DATA', 'eventTime': '2020-12-21T21:56:05 +0700'}]}
+2020-12-21 21:56:05,155 - SERVER: HTTP/1.1 204 - 
+2020-12-21 21:56:23,159 - POST : {'subscription': 'https://ignore.this.ok/subscriptions/11111', 'monitoringEventReports': [{'msisdn': '323456789012345', 'monitoringType': 'UE_REACHABILITY', 'reachabilityType"': 'DATA', 'eventTime': '2020-12-21T21:56:23 +0700'}]}
+2020-12-21 21:56:23,187 - SERVER: HTTP/1.1 204 - 
+2020-12-21 21:56:31,188 - POST : {'subscription': 'https://ignore.this.ok/subscriptions/11111', 'monitoringEventReports': [{'msisdn': '423456789012345', 'monitoringType': 'UE_REACHABILITY', 'reachabilityType"': 'DATA', 'eventTime': '2020-12-21T21:56:31 +0700'}]}
+2020-12-21 21:56:31,226 - SERVER: HTTP/1.1 204 - 
+2020-12-21 21:56:50,232 - POST : {'subscription': 'https://ignore.this.ok/subscriptions/11111', 'monitoringEventReports': [{'msisdn': '323456789012345', 'monitoringType': 'UE_REACHABILITY', 'reachabilityType"': 'DATA', 'eventTime': '2020-12-21T21:56:50 +0700'}]}
+2020-12-21 21:56:50,247 - SERVER: HTTP/1.1 204 - 
+2020-12-21 21:57:01,249 - POST : {'subscription': 'https://ignore.this.ok/subscriptions/11111', 'monitoringEventReports': [{'msisdn': '423456789012345', 'monitoringType': 'UE_REACHABILITY', 'reachabilityType"': 'DATA', 'eventTime': '2020-12-21T21:57:01 +0700'}]}
+2020-12-21 21:57:01,294 - SERVER: HTTP/1.1 204 - 
+2020-12-21 21:57:12,297 - POST : {'subscription': 'https://ignore.this.ok/subscriptions/11111', 'monitoringEventReports': [{'msisdn': '323456789012345', 'monitoringType': 'UE_REACHABILITY', 'reachabilityType"': 'DATA', 'eventTime': '2020-12-21T21:57:12 +0700'}]}
+2020-12-21 21:57:12,320 - SERVER: HTTP/1.1 204 - 
+2020-12-21 21:57:27,321 - POST : {'subscription': 'https://ignore.this.ok/subscriptions/11111', 'monitoringEventReports': [{'msisdn': '423456789012345', 'monitoringType': 'UE_REACHABILITY', 'reachabilityType"': 'DATA', 'eventTime': '2020-12-21T21:57:27 +0700'}]}
+2020-12-21 21:57:27,350 - SERVER: HTTP/1.1 204 - 
+2020-12-21 21:57:41,352 - POST : {'subscription': 'https://ignore.this.ok/subscriptions/11111', 'monitoringEventReports': [{'msisdn': '323456789012345', 'monitoringType': 'UE_REACHABILITY', 'reachabilityType"': 'DATA', 'eventTime': '2020-12-21T21:57:41 +0700'}]}
+2020-12-21 21:57:41,369 - SERVER: HTTP/1.1 204 - 
+2020-12-21 21:57:54,370 - POST : {'subscription': 'https://ignore.this.ok/subscriptions/11111', 'monitoringEventReports': [{'msisdn': '423456789012345', 'monitoringType': 'UE_REACHABILITY', 'reachabilityType"': 'DATA', 'eventTime': '2020-12-21T21:57:54 +0700'}]}
+2020-12-21 21:57:54,389 - SERVER: HTTP/1.1 204 - 
+2020-12-21 21:58:01,391 - POST : {'subscription': 'https://ignore.this.ok/subscriptions/11111', 'monitoringEventReports': [{'msisdn': '323456789012345', 'monitoringType': 'UE_REACHABILITY', 'reachabilityType"': 'DATA', 'eventTime': '2020-12-21T21:58:01 +0700'}]}
+2020-12-21 21:58:01,409 - SERVER: HTTP/1.1 204 - 
+2020-12-21 21:58:13,414 - POST : {'subscription': 'https://ignore.this.ok/subscriptions/11111', 'monitoringEventReports': [{'msisdn': '423456789012345', 'monitoringType': 'UE_REACHABILITY', 'reachabilityType"': 'DATA', 'eventTime': '2020-12-21T21:58:13 +0700'}]}
+2020-12-21 21:58:13,431 - SERVER: HTTP/1.1 204 - 
+2020-12-21 21:58:28,433 - POST : {'subscription': 'https://ignore.this.ok/subscriptions/11111', 'monitoringEventReports': [{'msisdn': '323456789012345', 'monitoringType': 'UE_REACHABILITY', 'reachabilityType"': 'DATA', 'eventTime': '2020-12-21T21:58:28 +0700'}]}
+2020-12-21 21:58:28,469 - SERVER: HTTP/1.1 204 - 
+2020-12-21 21:58:42,472 - POST : {'subscription': 'https://ignore.this.ok/subscriptions/11111', 'monitoringEventReports': [{'msisdn': '423456789012345', 'monitoringType': 'UE_REACHABILITY', 'reachabilityType"': 'DATA', 'eventTime': '2020-12-21T21:58:42 +0700'}]}
+2020-12-21 21:58:42,488 - SERVER: HTTP/1.1 204 - 
+2020-12-21 21:58:49,490 - POST : {'subscription': 'https://ignore.this.ok/subscriptions/11111', 'monitoringEventReports': [{'msisdn': '323456789012345', 'monitoringType': 'UE_REACHABILITY', 'reachabilityType"': 'DATA', 'eventTime': '2020-12-21T21:58:49 +0700'}]}
+2020-12-21 21:58:49,505 - SERVER: HTTP/1.1 204 - 
+2020-12-21 21:58:54,508 - POST : {'subscription': 'https://ignore.this.ok/subscriptions/11111', 'monitoringEventReports': [{'msisdn': '423456789012345', 'monitoringType': 'UE_REACHABILITY', 'reachabilityType"': 'DATA', 'eventTime': '2020-12-21T21:58:54 +0700'}]}
+2020-12-21 21:58:54,549 - SERVER: HTTP/1.1 204 - 
+2020-12-21 21:59:01,551 - POST : {'subscription': 'https://ignore.this.ok/subscriptions/11111', 'monitoringEventReports': [{'msisdn': '323456789012345', 'monitoringType': 'UE_REACHABILITY', 'reachabilityType"': 'DATA', 'eventTime': '2020-12-21T21:59:01 +0700'}]}
+2020-12-21 21:59:01,572 - SERVER: HTTP/1.1 204 - 
+2020-12-21 21:59:06,572 - POST : {'subscription': 'https://ignore.this.ok/subscriptions/11111', 'monitoringEventReports': [{'msisdn': '423456789012345', 'monitoringType': 'UE_REACHABILITY', 'reachabilityType"': 'DATA', 'eventTime': '2020-12-21T21:59:06 +0700'}]}
+2020-12-21 21:59:06,593 - SERVER: HTTP/1.1 204 - 
+2020-12-21 21:59:21,598 - POST : {'subscription': 'https://ignore.this.ok/subscriptions/11111', 'monitoringEventReports': [{'msisdn': '323456789012345', 'monitoringType': 'UE_REACHABILITY', 'reachabilityType"': 'DATA', 'eventTime': '2020-12-21T21:59:21 +0700'}]}
+2020-12-21 21:59:21,631 - SERVER: HTTP/1.1 204 - 
+2020-12-21 21:59:28,635 - POST : {'subscription': 'https://ignore.this.ok/subscriptions/11111', 'monitoringEventReports': [{'msisdn': '423456789012345', 'monitoringType': 'UE_REACHABILITY', 'reachabilityType"': 'DATA', 'eventTime': '2020-12-21T21:59:28 +0700'}]}
+2020-12-21 21:59:28,659 - SERVER: HTTP/1.1 204 - 
+2020-12-21 21:59:40,663 - POST : {'subscription': 'https://ignore.this.ok/subscriptions/11111', 'monitoringEventReports': [{'msisdn': '323456789012345', 'monitoringType': 'UE_REACHABILITY', 'reachabilityType"': 'DATA', 'eventTime': '2020-12-21T21:59:40 +0700'}]}
+2020-12-21 21:59:40,682 - SERVER: HTTP/1.1 204 - 
+2020-12-21 21:59:52,688 - POST : {'subscription': 'https://ignore.this.ok/subscriptions/11111', 'monitoringEventReports': [{'msisdn': '423456789012345', 'monitoringType': 'UE_REACHABILITY', 'reachabilityType"': 'DATA', 'eventTime': '2020-12-21T21:59:52 +0700'}]}
+2020-12-21 21:59:52,707 - SERVER: HTTP/1.1 204 - 
+2020-12-21 22:00:07,713 - POST : {'subscription': 'https://ignore.this.ok/subscriptions/11111', 'monitoringEventReports': [{'msisdn': '323456789012345', 'monitoringType': 'UE_REACHABILITY', 'reachabilityType"': 'DATA', 'eventTime': '2020-12-21T22:00:07 +0700'}]}
+2020-12-21 22:00:07,744 - SERVER: HTTP/1.1 204 - 
+2020-12-21 22:00:24,745 - POST : {'subscription': 'https://ignore.this.ok/subscriptions/11111', 'monitoringEventReports': [{'msisdn': '423456789012345', 'monitoringType': 'UE_REACHABILITY', 'reachabilityType"': 'DATA', 'eventTime': '2020-12-21T22:00:24 +0700'}]}
+2020-12-21 22:00:24,783 - SERVER: HTTP/1.1 204 - 
+2020-12-21 22:00:40,789 - POST : {'subscription': 'https://ignore.this.ok/subscriptions/11111', 'monitoringEventReports': [{'msisdn': '323456789012345', 'monitoringType': 'UE_REACHABILITY', 'reachabilityType"': 'DATA', 'eventTime': '2020-12-21T22:00:40 +0700'}]}
+2020-12-21 22:00:40,805 - SERVER: HTTP/1.1 204 - 
+2020-12-21 22:00:52,806 - POST : {'subscription': 'https://ignore.this.ok/subscriptions/11111', 'monitoringEventReports': [{'msisdn': '423456789012345', 'monitoringType': 'UE_REACHABILITY', 'reachabilityType"': 'DATA', 'eventTime': '2020-12-21T22:00:52 +0700'}]}
+2020-12-21 22:00:52,833 - SERVER: HTTP/1.1 204 - 
+2020-12-21 22:01:10,835 - POST : {'subscription': 'https://ignore.this.ok/subscriptions/11111', 'monitoringEventReports': [{'msisdn': '323456789012345', 'monitoringType': 'UE_REACHABILITY', 'reachabilityType"': 'DATA', 'eventTime': '2020-12-21T22:01:10 +0700'}]}
+2020-12-21 22:01:10,865 - SERVER: HTTP/1.1 204 - 
+2020-12-21 22:01:16,910 - POST : {'subscription': 'https://ignore.this.ok/subscriptions/11111', 'monitoringEventReports': [{'msisdn': '423456789012345', 'monitoringType': 'UE_REACHABILITY', 'reachabilityType"': 'DATA', 'eventTime': '2020-12-21T22:01:16 +0700'}]}
+2020-12-21 22:01:16,958 - SERVER: HTTP/1.1 204 - 
+2020-12-21 22:01:27,963 - POST : {'subscription': 'https://ignore.this.ok/subscriptions/11111', 'monitoringEventReports': [{'msisdn': '323456789012345', 'monitoringType': 'UE_REACHABILITY', 'reachabilityType"': 'DATA', 'eventTime': '2020-12-21T22:01:27 +0700'}]}
+2020-12-21 22:01:28,007 - SERVER: HTTP/1.1 204 - 
+2020-12-21 22:01:38,008 - POST : {'subscription': 'https://ignore.this.ok/subscriptions/11111', 'monitoringEventReports': [{'msisdn': '423456789012345', 'monitoringType': 'UE_REACHABILITY', 'reachabilityType"': 'DATA', 'eventTime': '2020-12-21T22:01:38 +0700'}]}
+2020-12-21 22:01:38,037 - SERVER: HTTP/1.1 204 - 
+2020-12-21 22:01:48,040 - POST : {'subscription': 'https://ignore.this.ok/subscriptions/11111', 'monitoringEventReports': [{'msisdn': '323456789012345', 'monitoringType': 'UE_REACHABILITY', 'reachabilityType"': 'DATA', 'eventTime': '2020-12-21T22:01:48 +0700'}]}
+2020-12-21 22:01:48,137 - SERVER: HTTP/1.1 204 - 
+2020-12-21 22:01:57,138 - POST : {'subscription': 'https://ignore.this.ok/subscriptions/11111', 'monitoringEventReports': [{'msisdn': '423456789012345', 'monitoringType': 'UE_REACHABILITY', 'reachabilityType"': 'DATA', 'eventTime': '2020-12-21T22:01:57 +0700'}]}
+2020-12-21 22:01:57,156 - SERVER: HTTP/1.1 204 - 
+2020-12-21 22:02:02,157 - POST : {'subscription': 'https://ignore.this.ok/subscriptions/11111', 'monitoringEventReports': [{'msisdn': '323456789012345', 'monitoringType': 'UE_REACHABILITY', 'reachabilityType"': 'DATA', 'eventTime': '2020-12-21T22:02:02 +0700'}]}
+2020-12-21 22:02:02,208 - SERVER: HTTP/1.1 204 - 
+2020-12-21 22:02:12,214 - POST : {'subscription': 'https://ignore.this.ok/subscriptions/11111', 'monitoringEventReports': [{'msisdn': '423456789012345', 'monitoringType': 'UE_REACHABILITY', 'reachabilityType"': 'DATA', 'eventTime': '2020-12-21T22:02:12 +0700'}]}
+2020-12-21 22:02:12,234 - SERVER: HTTP/1.1 204 - 
+2020-12-21 22:02:21,240 - POST : {'subscription': 'https://ignore.this.ok/subscriptions/11111', 'monitoringEventReports': [{'msisdn': '323456789012345', 'monitoringType': 'UE_REACHABILITY', 'reachabilityType"': 'DATA', 'eventTime': '2020-12-21T22:02:21 +0700'}]}
+2020-12-21 22:02:21,260 - SERVER: HTTP/1.1 204 - 
+2020-12-21 22:02:27,264 - POST : {'subscription': 'https://ignore.this.ok/subscriptions/11111', 'monitoringEventReports': [{'msisdn': '423456789012345', 'monitoringType': 'UE_REACHABILITY', 'reachabilityType"': 'DATA', 'eventTime': '2020-12-21T22:02:27 +0700'}]}
+2020-12-21 22:02:27,281 - SERVER: HTTP/1.1 204 - 
+2020-12-21 22:02:46,285 - POST : {'subscription': 'https://ignore.this.ok/subscriptions/11111', 'monitoringEventReports': [{'msisdn': '323456789012345', 'monitoringType': 'UE_REACHABILITY', 'reachabilityType"': 'DATA', 'eventTime': '2020-12-21T22:02:46 +0700'}]}
+2020-12-21 22:02:46,302 - SERVER: HTTP/1.1 204 - 
+2020-12-21 22:03:01,308 - POST : {'subscription': 'https://ignore.this.ok/subscriptions/11111', 'monitoringEventReports': [{'msisdn': '423456789012345', 'monitoringType': 'UE_REACHABILITY', 'reachabilityType"': 'DATA', 'eventTime': '2020-12-21T22:03:01 +0700'}]}
+2020-12-21 22:03:01,325 - SERVER: HTTP/1.1 204 - 
+2020-12-21 22:03:15,328 - POST : {'subscription': 'https://ignore.this.ok/subscriptions/11111', 'monitoringEventReports': [{'msisdn': '323456789012345', 'monitoringType': 'UE_REACHABILITY', 'reachabilityType"': 'DATA', 'eventTime': '2020-12-21T22:03:15 +0700'}]}
+2020-12-21 22:03:15,359 - SERVER: HTTP/1.1 204 - 
+2020-12-21 22:03:26,364 - POST : {'subscription': 'https://ignore.this.ok/subscriptions/11111', 'monitoringEventReports': [{'msisdn': '423456789012345', 'monitoringType': 'UE_REACHABILITY', 'reachabilityType"': 'DATA', 'eventTime': '2020-12-21T22:03:26 +0700'}]}
+2020-12-21 22:03:26,404 - SERVER: HTTP/1.1 204 - 
+2020-12-21 22:03:32,404 - POST : {'subscription': 'https://ignore.this.ok/subscriptions/11111', 'monitoringEventReports': [{'msisdn': '323456789012345', 'monitoringType': 'UE_REACHABILITY', 'reachabilityType"': 'DATA', 'eventTime': '2020-12-21T22:03:32 +0700'}]}
+2020-12-21 22:03:32,438 - SERVER: HTTP/1.1 204 - 
+2020-12-21 22:03:43,442 - POST : {'subscription': 'https://ignore.this.ok/subscriptions/11111', 'monitoringEventReports': [{'msisdn': '423456789012345', 'monitoringType': 'UE_REACHABILITY', 'reachabilityType"': 'DATA', 'eventTime': '2020-12-21T22:03:43 +0700'}]}
+2020-12-21 22:03:43,465 - SERVER: HTTP/1.1 204 - 
