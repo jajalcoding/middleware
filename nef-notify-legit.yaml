@@ -1,13 +1,20 @@
 server : https://localhost:50880/notifyme
-
-monitoringType : UE_REACHABILITY
-reachibilityType : DATA
-monitorExpireTime : "2028-01-31T00:15:00+08:00"
-test1 : sampledata
-test2 : 1234567
+period :
+ - 15
+ - 20
+ - 25
+ - 35
+ - 50
 msisdn :
-- 123456789012345
-- 223456789012345
-- 323456789012345
-- 423456789012345
-- 523456789012345
+ - 123456789012345
+ - 223456789012345
+ - 323456789012345
+ - 423456789012345
+ - 523456789012345
+subscription : https://ignore.this.ok/subscriptions/11111
+monitoringEventReports : 
+    - msisdn : anynumber
+      monitoringType : "UE_REACHABILITY"
+      reachabilityType" : "DATA"
+      eventTime : "2020-11-30T13:36:38.918Z"
+

@@ -1,3 +1,4 @@
+import time
 a=int(time.time())
 periode=15
 data = {'aaaaa':15,'bbbb':30,'ccccc':30,'ddddd':60}
