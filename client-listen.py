@@ -1,5 +1,6 @@
 # pip install quart
 # from the pcap, looks like it just return 201 and all parameters are returned back
+# module /notifyme and /ddosnotify
 
 from quart import Quart,request, make_response
 import json
@@ -40,7 +41,14 @@ async def subscribe():
 # this procedure contains a blocking ( non-async ), so if tcp connection to syslog is bad
 # it will halt other connection... this is at the moment is unresolvable, until there is a syslog client
 # module that can support asyncio !
+    sendsyslog(str(jsondata))
+    return { 'result':'ok' }, 204
 
+@app.route('/ddosnotify', methods=['POST'])
+async def ddosnotify():
+    jsondata = (await request.get_json())
+    print(jsondata)
+    logging.info('POSTED :'+str(jsondata))
     sendsyslog(str(jsondata))
     return { 'result':'ok' }, 204
 

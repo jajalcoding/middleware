@@ -1,0 +1,38 @@
+server : https://localhost:50880/ddosnotify
+ 
+msisdn-ipv4 :
+  - 7234567810102345
+  - 7234567810102347
+  - 7234567810102349
+  - 7234567810102351
+  - 7234567810102353
+  - 7234567810102445
+  - 7234567810102447
+  - 7234567810102449
+  - 7234567810102451
+  - 7234567810102453
+  - 7234567810102545
+  - 7234567810102547
+  - 7234567810102549
+  - 7234567810102551
+  - 7234567810102553
+  - 7234567810102645
+  - 7234567810102647
+  - 7234567810102649
+  - 7234567810102651
+  - 7234567810102653
+
+subscription : https://ignore.this.ok/subscriptions/11111
+monitoringEventReports : 
+    - msisdn : anynumber
+      monitoringType : "PDN_CONNECTIVITY_STATUS"
+      eventTime : "anytime"
+      pdnConnInfo :
+         status : "CREATED"
+         apn : "fortiapn"
+         interfaceInd : "PDN_GATEWAY"
+         ipv4Addr : "11.11.11.11"
+
+      
+# the idea is random between 10-20 msisdn is picked up, ip address is the last 6 chars
+# period of burst is random between 60-180 seconds
